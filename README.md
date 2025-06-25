@@ -12,5 +12,3 @@ Este repositório contém resoluções de exercícios de Java baseados nos mater
 Auxiliar estudantes na prática de programação Java solucionando os exercícios propostos pelo autor.
 
 ---
-
-**Bons estudos!**
